@@ -10,4 +10,4 @@ A project where amazing developers come together to read, write, connect and sha
 1. Adding efficient error handling.
 
 ## Note:
-   The api for this project is hosted on **Heroku** and hence the api goes to sleep frequently. Hence it might take some time for the api      to respond
+   The api for this project is hosted on **Heroku** and so the api goes to sleep frequently. Hence it might take some time for the api      to respond
